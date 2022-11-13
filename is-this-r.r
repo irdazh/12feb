@@ -28,3 +28,8 @@ plot(x, y^2, pch=20)
 
 # It's time to shine!
 shapiro.test(y^2)
+
+# Commit change in here, in r version
+t.test(x, y^2)
+
+
