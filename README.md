@@ -10,3 +10,5 @@ Some:
   - download ipynb, add file to git, a nice look, again
   - well, it's online!
  
+
+Ok, let's edit some of this. 
